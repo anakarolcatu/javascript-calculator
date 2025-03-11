@@ -52,4 +52,5 @@ main {
     padding: 20px;
     margin: 4px 2px;
     box-shadow: 6px 2px 7px -4px rgba(0,0,0,0.59);
+    cursor: pointer;
 }
